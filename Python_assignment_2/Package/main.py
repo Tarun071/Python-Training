@@ -1,7 +1,7 @@
 from Grocery import Grocery
-from Toys import Toys
+from Toys import Toys,Bags
 
-obj1=Toys()
+obj1=Bags()
 obj2=Grocery()
-obj1.toys()
+obj1.bags()
 obj2.grocery()
