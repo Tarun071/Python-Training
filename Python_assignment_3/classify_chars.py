@@ -13,7 +13,7 @@ def classify_chars():
                 words+=1
                 if i in "AEIOUaeiou":
                     vowels+=1
-                elif i.isalpha() not in "AEIOUaeiou":
+                elif i.isalpha():
                     cons+=1
                 else:
                     spcl+=1

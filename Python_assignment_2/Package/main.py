@@ -1,5 +1,5 @@
 from Grocery import Grocery
-from Toys import Toys,Bags
+from Python_assignment_2.Package.math import Toys,Bags
 
 obj1=Bags()
 obj2=Grocery()

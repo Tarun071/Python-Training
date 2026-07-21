@@ -1,6 +1,9 @@
-class Toys:
-    def toys(self):
-        print("This is toys class")
-class Bags:
-    def bags(self):
-        print("this is bags class")
+class maths:
+    def add(self,a,b):
+        return a+b
+    def sub(self,a,b):
+        return a-b
+    def mul(self,a,b):
+        return a*b
+    def div(self,a,b):
+        return a/b
