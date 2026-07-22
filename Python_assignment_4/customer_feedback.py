@@ -5,6 +5,7 @@ def good_customer_feedback():
     for i in customer:
         if i in good_feedback:
             print("Positive")
+            break
             
     
 good_customer_feedback()
